@@ -1,2 +1,9 @@
+# model training
 datasets/
+rank_0/
+
+# jupyter notebook
 .ipynb_checkpoints/
+
+# test file
+tensorflow_clip_by_norm.ipynb
