@@ -2,8 +2,11 @@
 datasets/
 rank_0/
 
-# jupyter notebook
+# configuration
 .ipynb_checkpoints/
+.vscode/
 
 # test file
 tensorflow_clip_by_norm.ipynb
+test.ipynb
+transformer_test.py
