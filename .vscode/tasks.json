@@ -4,7 +4,7 @@
         {
             "label": "python",
             "type": "shell",
-            "command": "C:\\Users\\Administrator\\miniconda3\\envs\\mindspore_2.0_0313\\python.exe",
+            "command": "C:\\Users\\Administrator\\miniconda3\\envs\\mindspore_2.0_newest\\python.exe",
             "args": [
                 "${file}"
             ],
